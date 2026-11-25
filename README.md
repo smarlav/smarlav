@@ -28,12 +28,6 @@ A medio plazo me gustaría trabajar en el ámbito de los datos y, si surge la op
 
 ## 🧩 Mi perfil de un vistazo
 
-
-## 🧩 Mi perfil de un vistazo
-
-
-## 🧩 Mi perfil de un vistazo
-
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#161B22','primaryTextColor':'#FFFFFF','primaryBorderColor':'#E63946','secondaryColor':'#161B22','tertiaryColor':'#0D1117','lineColor':'#E63946','fontFamily':'Arial','fontSize':'16px'}}}%%
 mindmap
