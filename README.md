@@ -1,41 +1,120 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:E63946&text=Samuel%20M%C3%A1rquez%20Lavado&fontColor=FFFFFF&fontSize=44&fontAlignY=40&animation=fadeIn&desc=Desarrollo%20de%20aplicaciones%20%C2%B7%20Gesti%C3%B3n%20de%20datos%20%C2%B7%20Tecnolog%C3%ADa&descSize=18&descAlignY=62" alt="Samuel Márquez Lavado" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1000&color=E63946&center=true&vCenter=true&width=620&height=40&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Multiplataforma;Me+interesan+las+bases+de+datos+y+la+IA" alt="Estudiante de DAM, interesado en bases de datos e IA" />
+ <div align="center">
 
-LinkedIn Email Portfolio
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:E63946&text=Samuel%20M%C3%A1rquez%20Lavado&fontColor=FFFFFF&fontSize=44&fontAlignY=40&animation=fadeIn&desc=Desarrollo%20de%20aplicaciones%20%C2%B7%20Gesti%C3%B3n%20de%20datos%20%C2%B7%20Tecnolog%C3%ADa&descSize=18&descAlignY=62" alt="Samuel Márquez Lavado" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1000&color=E63946&center=true&vCenter=true&width=700&height=50&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Multiplataforma;Me+interesan+las+bases+de+datos+y+la+IA" alt="Estudiante de DAM, interesado en bases de datos e IA"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/samuel-m%C3%A1rquez-lavado-413916399">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-E63946?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:marquezlavadosamuel@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contacto-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/smarlav">
+  <img src="https://img.shields.io/badge/GitHub-smarlav-E63946?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
-Sobre mí
 
-Soy Samuel, de Málaga. Estoy terminando el ciclo de Desarrollo de Aplicaciones Multiplataforma en Davante Medac Nova y sacándome el B2 de inglés. Antes hice el bachillerato tecnológico.
+👨‍💻 Sobre mí
 
-Lo que más me gusta del desarrollo es todo lo que rodea a los datos: diseñar una base de datos, consultarla y que la aplicación la use bien. Cuando algo no funciona, tiendo a no soltarlo hasta encontrar la forma de arreglarlo. Me cuesta un poco adaptarme al principio a un entorno nuevo, pero una vez que me ubico trabajo con orden y me gusta colaborar.
+Soy Samuel, de Málaga. Estoy terminando el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM) en Davante MEDAC Nova y preparándome para obtener el B2 de inglés. Anteriormente cursé Bachillerato Tecnológico.
 
-A medio plazo me veo trabajando con datos y, si se da la ocasión, acercándome a la inteligencia artificial. Ahora mismo busco mi primera oportunidad, en presencial o híbrido.
+Lo que más me gusta del desarrollo es todo lo relacionado con los datos: diseñar una base de datos, realizar consultas y conseguir que una aplicación trabaje correctamente con ella. Cuando algo no funciona, intento encontrar el error y buscar una solución. Al principio puedo necesitar algo de tiempo para adaptarme a un entorno nuevo, pero una vez que me ubico trabajo con orden y me gusta colaborar.
 
-Tecnologías
+A medio plazo me gustaría trabajar en el ámbito de los datos y, si surge la oportunidad, acercarme también a la inteligencia artificial. Actualmente busco mi primera oportunidad profesional, tanto en modalidad presencial como híbrida.
 
-Lenguajes
+🛠️ Tecnologías y herramientas
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,php,html,css&theme=dark" alt="Java, Kotlin, Python, PHP, HTML y CSS" />
+Lenguajes de programación y desarrollo web
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,php,html,css&theme=dark" alt="Java, Kotlin, Python, PHP, HTML y CSS"/>
+</div>
 
 Bases de datos
 
-<img src="https://skillicons.dev/icons?i=oracle,mongodb&theme=dark" alt="Oracle y MongoDB" />   SQL y PL/SQL
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=oracle,mongodb&theme=dark" alt="Oracle y MongoDB"/>
+  <br/>
+  <img src="https://img.shields.io/badge/SQL-Consultas%20y%20gesti%C3%B3n-E63946?style=flat-square" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-Oracle-0D1117?style=flat-square" alt="PL/SQL"/>
+</div>
 
 Herramientas
 
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio&theme=dark" alt="Git, GitHub y Android Studio" />
-Proyectos
-ProyectoAlucard: aplicación móvil en Kotlin hecha con Android Studio durante el ciclo.
-EjerciciosJava: ejercicios de Java para practicar arrays, bucles, objetos, polimorfismo, excepciones y colecciones.
-<!-- Tercer proyecto (la práctica pide mínimo 3). Descomenta y edita: - [**NOMBRE**](https://github.com/smarlav/NOMBRE-DEL-REPO): una frase sobre qué hace. -->
-Qué estoy mejorando
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" alt="Git, GitHub, Android Studio y Visual Studio Code"/>
+</div>
 
-Quiero hacer más cursos para defenderme mejor a nivel digital, y trabajar la disciplina y la adaptación a situaciones nuevas, que son mis puntos más flojos.
+<sub>Estas son algunas de las tecnologías y herramientas que he utilizado durante mi formación. Sigo ampliando mis conocimientos y experiencia con ellas.</sub>
 
-Estadísticas
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=smarlav&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9" alt="Estadísticas de GitHub" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarlav&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9" alt="Lenguajes más usados" />
-Contacto
+🚀 Proyectos
 
-Puedes escribirme a marquezlavadosamuel@gmail.com o encontrarme en LinkedIn.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 ProyectoAlucard</h3>
+      <p align="center">
+        <a href="https://github.com/smarlav/ProyectoAlucard">
+          <img src="https://img.shields.io/badge/Ver_repositorio-E63946?style=for-the-badge&logo=github&logoColor=white" alt="Ver ProyectoAlucard"/>
+        </a>
+      </p>
+      Aplicación móvil desarrollada en Kotlin utilizando Android Studio durante el ciclo formativo.
+      <p><strong>Tecnologías:</strong> Kotlin · Android Studio</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">☕ EjerciciosJava</h3>
+      <p align="center">
+        <a href="https://github.com/smarlav/EjerciciosJava">
+          <img src="https://img.shields.io/badge/Ver_repositorio-E63946?style=for-the-badge&logo=github&logoColor=white" alt="Ver EjerciciosJava"/>
+        </a>
+      </p>
+      Colección de ejercicios de Java para practicar arrays, bucles, objetos, polimorfismo, excepciones y colecciones.
+      <p><strong>Tecnologías:</strong> Java</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🔧 Próximo proyecto</h3>
+      Espacio reservado para añadir un nuevo proyecto cuando esté terminado.
+    </td>
+  </tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:E63946,100:0D1117&section=footer" alt="" width="100%" />
+📚 Formación
+
+Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) — Davante MEDAC Nova.
+
+Bachillerato Tecnológico.
+
+Cursos de OpenWebinars: Java, SQL y Git.
+
+🌱 Qué estoy mejorando
+
+Quiero seguir ampliando mis conocimientos mediante nuevos cursos y proyectos prácticos. También estoy trabajando en mejorar mi disciplina y mi capacidad para adaptarme a situaciones y entornos nuevos.
+
+📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=smarlav&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9" alt="Estadísticas de GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarlav&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9" alt="Lenguajes más utilizados"/>
+</div>
+
+📬 Contacto
+
+¿Quieres contactar conmigo o conocer mis proyectos?
+
+📧 Correo: marquezlavadosamuel@gmail.com
+
+💼 LinkedIn: Mi perfil profesional
+
+💻 GitHub: github.com/smarlav
+
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:E63946,100:0D1117&section=footer" alt="Decoración inferior" width="100%"/>
+  <sub>Gracias por visitar mi perfil. Siempre aprendiendo y mejorando.</sub>
+</div>
