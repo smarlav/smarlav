@@ -128,7 +128,7 @@ Quiero seguir ampliando mis conocimientos mediante nuevos cursos y proyectos pr�
 
 📧 **Correo:** [marquezlavadosamuel@gmail.com](mailto:marquezlavadosamuel@gmail.com)
 
-💼 **LinkedIn:** [Mi perfil profesional](https://www.linkedin.com/in/samuel-m%C3%A1rquez-lavado-413916399)
+💼 **LinkedIn:** [Mi perfil profesional](https://www.linkedin.com/in/samuel-márquez-lavado)
 
 💻 **GitHub:** [github.com/smarlav](https://github.com/smarlav)
 
