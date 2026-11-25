@@ -1,117 +1,52 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Banner de Samuel Márquez Lavado" width="100%">
+<!-- ========================= BANNER ========================= --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,100:E63946&text=Samuel%20M%C3%A1rquez%20Lavado&fontColor=FFFFFF&fontSize=46&fontAlignY=38&animation=fadeIn&desc=Desarrollador%20Multiplataforma%20%C2%B7%20Datos%20%C2%B7%20IA&descSize=20&descAlignY=60" alt="Banner de Samuel Márquez Lavado" width="100%" /> <a href="https://github.com/smarlav"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=E63946&center=true&vCenter=true&width=640&height=45&lines=Hola%2C+soy+Samuel+%F0%9F%91%8B;Estudiante+de+Desarrollo+de+Aplicaciones+Multiplataforma;Me+apasiona+organizar+y+gestionar+datos+%F0%9F%97%84%EF%B8%8F;Curioso+por+la+Inteligencia+Artificial+%F0%9F%A4%96;Sigo+aprendiendo%2C+construyendo+y+mejorando+%F0%9F%9A%80" alt="Texto animado" /> </a> <br/>
 
-# Samuel Márquez Lavado
-### Estudiante de Desarrollo de Aplicaciones Multiplataforma
+LinkedIn Email Portfolio GitHub
 
-<p>
-  <a href="mailto:marquezlavadosamuel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="PON_AQUI_TU_URL_DE_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Ver_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="PON_AQUI_TU_URL_DE_GITHUB">
-    <img src="https://img.shields.io/badge/GitHub-Mi_perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=smarlav&label=Visitas&color=E63946&style=flat-square" alt="Contador de visitas" /> </div>
+👨‍💻 Sobre mí
 
-<p><em>Organizo información, cuido los detalles y busco soluciones útiles mientras sigo aprendiendo.</em></p>
+Soy estudiante de 2.º de Desarrollo de Aplicaciones Multiplataforma (DAM) en Davante Medac Nova (Málaga), con el B2 de inglés a punto de completarse y bachillerato tecnológico.
 
-</div>
+Me centro en aplicar la programación al entorno laboral, con especial interés en la creación y gestión de bases de datos. Organizo la información, cuido los detalles y, cuando un problema no sale a la primera, pruebo con todas las herramientas a mi alcance hasta resolverlo.
 
----
+🎯 Mi objetivo: trabajar en un sector relacionado con los datos y, si surge la oportunidad, acercarme al campo de la inteligencia artificial.
 
-## 👋 Sobre mí
+📍 Málaga, España  ·  💼 Buscando mi primera oportunidad profesional (presencial o híbrido)
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Davante MEDAC Nova. Me interesa especialmente la programación, las bases de datos y el desarrollo de aplicaciones.
+🛠️ Tecnologías
+Lenguajes de programación y web
+<p> <img src="https://skillicons.dev/icons?i=java,kotlin,python,php,html,css&theme=dark" alt="Java, Kotlin, Python, PHP, HTML, CSS" /> </p>
+Bases de datos
+<p> <img src="https://skillicons.dev/icons?i=oracle,mongodb&theme=dark" alt="Oracle, MongoDB" /> <img src="https://img.shields.io/badge/SQL%20%2F%20PL--SQL-E63946?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL y PL/SQL" /> </p>
+Herramientas
+<p> <img src="https://skillicons.dev/icons?i=git,github,androidstudio&theme=dark" alt="Git, GitHub, Android Studio" /> <img src="https://img.shields.io/badge/XML-0D1117?style=for-the-badge&logo=xml&logoColor=E63946" alt="XML" /> </p>
+🚀 Proyectos
+Proyecto	Descripción	Tecnologías
+📱 ProyectoAlucard	Proyecto de aplicación móvil desarrollado durante el ciclo formativo.	Mostrar imagen Mostrar imagen
+☕ EjerciciosJava	Colección de ejercicios de Java: arrays, bucles, objetos, polimorfismo, excepciones y colecciones.	Mostrar imagen
+<!-- 3.er PROYECTO (la práctica pide mínimo 3). Descomenta, edita y borra este aviso: | 🗄️ [**NOMBRE-DEL-PROYECTO**](https://github.com/smarlav/NOMBRE-DEL-REPO) | Una frase sobre qué hace (ej.: gestión de base de datos con SQL/Oracle). | ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) | -->
+🧭 Cómo trabajo
+🤝 Colaboración	🧠 Responsabilidad	👂 Empatía
+Ayudo cuando puedo aportar y pido ayuda cuando la necesito.	Cumplo plazos y entrego bien las tareas; si detecto un error, busco cómo solucionarlo.	Escucho al equipo y valoro las ideas distintas a las mías.
+📚 Ahora mismo estoy
+🔭 Finalizando el ciclo DAM y el B2 de inglés.
+🌱 Ampliando mis conocimientos con cursos para ser más competente digitalmente.
+⏱️ Mejorando mi disciplina y mi capacidad de adaptación a situaciones nuevas.
+🗄️ Profundizando en bases de datos y acercándome a la inteligencia artificial.
+📊 Estadísticas de GitHub
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=smarlav&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&ring_color=E63946" alt="Estadísticas de GitHub" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarlav&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9" alt="Lenguajes más usados" /> <br/> <img src="https://streak-stats.demolab.com/?user=smarlav&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Racha de contribuciones" /> </div>
+📫 Contacto
 
-Me considero una persona organizada, responsable y con interés por resolver problemas. Me gusta aprender herramientas nuevas, probar alternativas y mejorar poco a poco lo que hago.
+Si quieres hablar de datos, bases de datos, IA o de una posible oportunidad, escríbeme:
 
-🎯 **Mi objetivo:** seguir desarrollándome en el ámbito tecnológico, especialmente en áreas relacionadas con los datos, y ampliar mis conocimientos sobre nuevas tecnologías e inteligencia artificial.
-
----
-
-## 🧰 Tecnologías y herramientas
-
-Estas son algunas de las tecnologías y herramientas que he trabajado durante mi formación. Los iconos sirven como referencia visual; no representan un nivel avanzado en todas ellas.
-
+📧 Email: marquezlavadosamuel@gmail.com
+💼 LinkedIn: Samuel Márquez Lavado
+🌐 Portfolio: marquez.dev
 <div align="center">
 
-### Lenguajes
-<img src="https://skillicons.dev/icons?i=java,python,kotlin,php" alt="Java, Python, Kotlin y PHP">
+Sigo aprendiendo, construyendo y dando forma a mi futuro profesional.
 
-### Bases de datos
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" alt="MySQL, MongoDB y Oracle">
-
-### Desarrollo web
-<img src="https://skillicons.dev/icons?i=html,css" alt="HTML y CSS">
-
-### Herramientas
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode" alt="Git, GitHub, Android Studio y Visual Studio Code">
-
-</div>
-
-> También he trabajado con SQL, PL/SQL y XML durante mi formación.
-
----
-
-## 🚀 Proyectos
-
-Todavía estoy preparando mis primeros proyectos personales para publicarlos aquí. He dejado estos espacios listos para añadirlos cuando estén terminados, sin incluir trabajos ficticios.
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>📌 Proyecto 01</h3>
-      <p><strong>Próximamente</strong></p>
-      <p>Descripción del proyecto, tecnologías utilizadas y qué he aprendido al desarrollarlo.</p>
-      <sub>Repositorio: pendiente</sub>
-    </td>
-    <td width="33%" align="center">
-      <h3>📌 Proyecto 02</h3>
-      <p><strong>Próximamente</strong></p>
-      <p>Descripción del proyecto, tecnologías utilizadas y qué he aprendido al desarrollarlo.</p>
-      <sub>Repositorio: pendiente</sub>
-    </td>
-    <td width="33%" align="center">
-      <h3>📌 Proyecto 03</h3>
-      <p><strong>Próximamente</strong></p>
-      <p>Descripción del proyecto, tecnologías utilizadas y qué he aprendido al desarrollarlo.</p>
-      <sub>Repositorio: pendiente</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎓 Formación
-
-- **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — Davante MEDAC Nova.
-- **Bachillerato Tecnológico.**
-- **Cursos de OpenWebinars:** Java, SQL y Git.
-
-## 🌱 Cómo trabajo
-
-- **Responsabilidad:** intento cumplir los plazos y entregar las tareas correctamente.
-- **Organización:** procuro estructurar la información y mantener un orden al trabajar.
-- **Colaboración:** escucho otras opiniones, comparto ideas y pido ayuda cuando la necesito.
-- **Mejora continua:** cuando algo no sale, busco el error y pruebo cómo solucionarlo.
-
----
-
-## 📫 Contacto
-
-Si quieres contactar conmigo o conocer mi evolución, puedes hacerlo a través de estos enlaces:
-
-- ✉️ **Correo:** [marquezlavadosamuel@gmail.com](mailto:marquezlavadosamuel@gmail.com)
-- 💼 **LinkedIn:** añade aquí la URL de tu perfil.
-- 💻 **GitHub:** añade aquí la URL de tu perfil.
-
----
-
-<div align="center">
-  <sub>Gracias por visitar mi perfil. Este README irá creciendo a medida que avance mi formación y publique nuevos proyectos.</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E63946,100:0D1117&section=footer&animation=fadeIn" alt="Footer" width="100%" /> </div>
 
