@@ -31,25 +31,31 @@ A medio plazo me gustaría trabajar en el ámbito de los datos y, si surge la op
 
 ## 🧩 Mi perfil de un vistazo
 
+
+## 🧩 Mi perfil de un vistazo
+
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#161B22','primaryTextColor':'#FFFFFF','primaryBorderColor':'#E63946','lineColor':'#E63946','secondaryColor':'#252D38','tertiaryColor':'#0D1117','fontFamily':'Arial'}}}%%
-flowchart TB
-    A(["👨‍💻 SAMUEL MÁRQUEZ LAVADO"])
-
-    A --> B["🎓 QUÉ SÉ<br/><br/>Grado Superior DAM<br/>Bachillerato Tecnológico<br/>Inglés B2 en preparación"]
-
-    A --> C["💻 QUÉ SÉ HACER<br/><br/>Crear y corregir código<br/>Consultar bases de datos<br/>Desarrollar páginas web"]
-
-    A --> D["🤝 CÓMO TRABAJO<br/><br/>Organizado<br/>Resolutivo<br/>Colaborador"]
-
-    A --> E["🎯 QUÉ QUIERO<br/><br/>Trabajar con datos<br/>Seguir aprendiendo<br/>Acercarme a la inteligencia artificial"]
-
-    style A fill:#E63946,stroke:#E63946,color:#FFFFFF,stroke-width:2px
-    style B fill:#161B22,stroke:#E63946,color:#FFFFFF
-    style C fill:#161B22,stroke:#E63946,color:#FFFFFF
-    style D fill:#161B22,stroke:#E63946,color:#FFFFFF
-    style E fill:#161B22,stroke:#E63946,color:#FFFFFF
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#161B22','primaryTextColor':'#FFFFFF','primaryBorderColor':'#E63946','secondaryColor':'#161B22','tertiaryColor':'#0D1117','lineColor':'#E63946','fontFamily':'Arial','fontSize':'16px'}}}%%
+mindmap
+  root((Samuel))
+    Qué sé
+      Grado Superior DAM
+      Bachillerato tecnológico
+      Inglés B2 en proceso
+    Qué sé hacer
+      Crear y corregir código
+      Consultar bases de datos
+      Desarrollar páginas web
+    Cómo trabajo
+      Organización
+      Resolución de problemas
+      Colaboración
+    Qué quiero
+      Trabajar con datos
+      Seguir aprendiendo
+      Inteligencia artificial
 ```
+
 
 
 ## 🛠️ Tecnologías y herramientas
